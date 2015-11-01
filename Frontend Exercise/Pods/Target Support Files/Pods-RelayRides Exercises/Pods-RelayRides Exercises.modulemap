@@ -1,0 +1,6 @@
+framework module Pods_RelayRides_Exercises {
+  umbrella header "Pods-RelayRides Exercises-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,18 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+target 'RelayRides Exercises' do
+
+pod 'SWXMLHash', '~> 2.0.0'
+
+end
+
+target 'RelayRides ExercisesTests' do
+
+end
+
+target 'RelayRides ExercisesUITests' do
+
+end
+
